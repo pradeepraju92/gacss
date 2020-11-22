@@ -1,5 +1,5 @@
 /* Logo */
-#logo a {background-image:url('https://github.com/pradeepraju92/gacss/blob/master/logo.png'); min-height:0; height:40px};
+#logo a {background-image:url('https://test-css-host.netlify.app/logo.png'); min-height:0; height:40px};
 .redesigned-theme-2018 #logo a, .redesigned-theme-2018 .logo a{
-  background-image:url('https://github.com/pradeepraju92/gacss/blob/master/logo.png'); min-height:0; height:40px
+  background-image:url('https://test-css-host.netlify.app/logo.png'); min-height:0; height:40px
 };
