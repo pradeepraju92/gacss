@@ -5,3 +5,13 @@
   background-size: 120px !important;
   margin-bottom: 10px !important;
 };
+.redesigned-theme-2018 .wufoo li{
+  padding:20px !important;
+};
+.redesigned-theme-2018 input.btTxt{
+  margin-right: 372px !important;
+  margin-top:20px !important;
+};
+.redesigned-theme-2018 .buttons a, .redesigned-theme-2018 .buttons div div{
+  left:-130%;
+}
