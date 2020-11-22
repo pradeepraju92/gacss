@@ -1,7 +1,7 @@
 /* Logo */
 .redesigned-theme-2018 #logo a, .redesigned-theme-2018 .logo a{
-  background-image:url("https://test-css-host.netlify.app/logo.png") no-repeat 2% 20px !important;
-  height: 80px !important;
+  background:url("https://test-css-host.netlify.app/logo.png") no-repeat 2% -12px !important;
+  height: 100px !important;
   background-size: 120px !important;
   margin-bottom: 10px !important;
 };
